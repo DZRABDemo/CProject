@@ -5,8 +5,8 @@ void funChar();
 
 int main()
 {
-    // funInteger();
-    // funDecimals();
+    funInteger();
+    funDecimals();
     funChar();
 }
 
