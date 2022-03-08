@@ -40,7 +40,7 @@ void test03()
 
     char ch[100];
 
-    strcpy(ch, "xufeifan");
+    strcpy(ch, "测试进行打印");
 
     fp = fopen("one.txt", "w");
 
